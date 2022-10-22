@@ -2,9 +2,13 @@
 
 ## Description
 
-## Goals
+## Project Description
 
-## OCT-B scan segmentation of the Choroid
+### OCT-B scan segmentation of the Choroid
+
+### Generation of Thickness map from OCT-B
+
+### Peripheral Image Completion of the Thickness maps
 
 ## Technologies
 
