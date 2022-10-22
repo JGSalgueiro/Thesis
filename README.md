@@ -18,3 +18,5 @@
 - Project Delivery : TO DO
 - Thesis Delivery : TO DO 
 
+## License
+
