@@ -17,7 +17,7 @@
 ## Relevant Sources
 
 ## Relevant Dates
-- Project Delivery : TO DO
+- Thesis Proposal Date : 13/January/2023
 - Thesis Delivery : TO DO 
 
 ## License
